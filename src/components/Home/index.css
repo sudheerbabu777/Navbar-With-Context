@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.home-image {
+  width: 150px;
+  height: 150px;
+}
+
+.home-title {
+  font-family: 'Roboto';
+  font-size: 64px;
+  font-weight: 800;
+
+  margin-top: 4px;
+}
+
+.light {
+  color: #000000;
+}
+
+.dark {
+  color: #ffffff;
+}
+
+.bg-light {
+  background-color: #000000;
+}
+
+.bg-bark {
+  background-color: #ffffff;
+}
